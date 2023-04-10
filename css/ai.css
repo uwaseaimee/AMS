@@ -1,0 +1,146 @@
+h1, .h1{
+	margin-left: 397px;
+}
+.form{
+	background-color: whitesmoke;
+	width: 339px;
+	height: 426px;
+    max-width: 100%;
+	border-radius: 20px; 
+	padding: 31px;
+	margin-top: 38px;
+	margin-left:279px;
+	text-decoration: none;
+}
+.input-group input{
+	display: block;
+	text-align: center;
+	width: 300px;
+	height: 30px;
+	text-decoration: none;
+	margin-bottom: 10px;
+	border-radius: 20px;
+}
+.sign-btn{
+	width: 255px;
+	background-color: seagreen;
+	padding: 10px;
+	margin-top: 10px;
+	border-radius: 20px;
+}
+.login_heading{
+	text-align: center;
+	margin-bottom: 32px;
+}
+.sidebar{
+	position: absolute;
+	left: 0;
+	width: 250px;
+	height: 100%;
+	background: skyblue;
+}
+.sidebar header{
+	font-size:22px;
+	color: white;
+	text-align: center;
+	line-height: 70px;
+	background: seagreen;
+	user-select: none;
+}
+.sidebar ul a{
+	display: block;
+	height: 100%;
+	width: 100%;
+	line-height: 65px;
+	font-size: 20px;
+	color: white;
+	padding-left: 40px;
+	box-sizing: border-box;
+	border-top: 1px solid darkblue;
+	border-bottom: 1px solid darkblue;
+	transition: 4s;
+}
+ul li:hover a{
+    padding-left: 50px; 
+    
+}
+.sidebar ul a i{
+	margin-right: 16px;	
+}
+.card{
+	margin-left: 343px;
+	margin-top: 37px;
+}
+.cards{
+	display: inline-block;
+	color: white;
+	border-radius: 20px;
+	width: 300px;
+    height: 197px;
+	text-align: center;
+	padding-top: 35px;
+	padding-bottom: 45px;
+	padding-left: 42px;
+	margin-top: 28px;
+	margin-left: 30px;
+	position: relative;
+	box-sizing: border-box;
+
+}
+.card1{
+	background-color: blue;
+}
+.card2{
+	background-color: green;
+}
+.card3{
+	background-color: orange;
+}
+.card i{
+	width: 100px;
+}
+h3{
+	font-size: 20px;
+	font-family: cursive;
+	padding-right: 93px;
+}
+p{
+	font-size: 40px;
+	padding-right: 96px;
+}
+i{
+	width: 100px;
+}
+table ,th ,td {
+	border: 1px solid black;
+	padding: 0px;
+	margin: 0px 0px 0px 0px;
+}
+a{
+	text-decoration: none;
+	text-align: center;
+}
+button{
+	border: 2px groove black;
+}
+tr{
+	padding: 0px;
+	margin: 0px;
+}
+.action-btn {
+    color: white;
+    border: none;
+    padding: 5px 25px;
+    margin: 5px 6px;
+}
+.delete-btn {
+	background-color: #b04343;
+}
+.edit-btn {
+	background-color: #454fa5;
+}
+.save-btn{
+   			margin-top: 20px;
+   		 	background-color: #454fa5;
+    		color: white;
+}
